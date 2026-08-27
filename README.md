@@ -282,3 +282,25 @@ MIT - veja [LICENSE](LICENSE) para detalhes.
   <br>
   <sub>Conectando inteligência artificial aos 91 tribunais do sistema de justiça nacional</sub>
 </p>
+
+
+---
+
+## 🔔 Scoras Digital DevOps Agent — Verificação
+
+[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-44%2F100%20(D)-orange?style=for-the-badge&logo=github)](./andersonamaral2_mcp-juridico-brasil_2026-08-27.md)
+[![Scoras DevOps Agent](https://img.shields.io/badge/Scoras_DevOps_Agent-Verificado-blue?style=for-the-badge&logo=githubactions)](https://github.com/andersonamaral2/mcp-juridico-brasil)
+
+| Campo | Valor |
+|-------|-------|
+| 🤖 Avaliado por | Scoras Digital DevOps Agent |
+| 📅 Data da Avaliação | `27/08/2026` |
+| 📊 Score DevOps & Segurança | `44/100` |
+| 🎯 Nota | D — Abaixo do esperado |
+| 📄 Relatório Completo | [andersonamaral2_mcp-juridico-brasil_2026-08-27.md](./andersonamaral2_mcp-juridico-brasil_2026-08-27.md) |
+
+> *Este repositório foi auditado automaticamente pelo **Scoras Digital DevOps Agent**,*  
+> *verificando métricas DORA, CI/CD, segurança (CVEs, secrets, SAST) e boas práticas.*  
+> *Última avaliação: **27/08/2026***
+
+---
